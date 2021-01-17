@@ -1,1 +1,98 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import "@angular/material/prebuilt-themes/indigo-pink.css";
+html,
+body {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+.login {
+    margin-top: 5%;
+}
+
+.example-full-width {
+    width: 100%;
+    margin: 2%2%2%2%;
+}
+
+.top-padding {
+    padding-top: 2%;
+}
+
+.height {
+    height: 23vh;
+}
+
+.border-color {
+    border: 2px solid #a2c4fc;
+}
+
+.background-color {
+    background-color: #0a67bf;
+    border-radius: 2%;
+    color: white;
+    padding-bottom: 5%;
+}
+
+.padding-left {
+    padding-left: 2%;
+    text-justify: auto;
+    text-align: center;
+}
+
+.text-right-header {
+    color: #a2c4fc;
+    text-justify: auto;
+    text-align: right;
+}
+
+.employee-color {
+    color: #f79628;
+}
+
+.example-full-width {
+    width: 100%;
+    margin: 2%2%2%2%;
+}
+
+.update-button-color {
+    background-color: #0fe3f2;
+    color: white;
+}
+
+.remove-button-color {
+    background-color: #fa820a;
+    color: white;
+}
+
+.link-active {
+    background-color: #0a67bf;
+    color: white;
+    padding-right: 2%;
+    width: 10%;
+}
+
+.link-default {
+    background-color: #b8ecf2;
+    padding-right: 2%;
+    color: #b4bebf;
+    width: 10%;
+}
+
+.link-active:hover {
+    color: white;
+}

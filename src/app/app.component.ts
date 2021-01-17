@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+  linkActivate = true;
   title = 'workForceApp';
+  activateLink(activate) {
+    this.linkActivate = activate;
+  }
 }
